@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 
+=======
+gcc -c $CFILE
+>>>>>>> 10a12797a764ed0841d88e08df79550bc2f0d35f
